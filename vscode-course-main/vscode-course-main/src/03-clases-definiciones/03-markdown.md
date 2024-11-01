@@ -1,6 +1,6 @@
 # Tips
 ```
-command + P : Markdown Open Preview
+command + P : Markdown Open Previews
 command + P : Markdown Open Preview to the side
 
 Ctrl + P : Markdown Open Preview
